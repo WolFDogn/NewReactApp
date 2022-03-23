@@ -15,7 +15,7 @@ import {usePosts} from "./hooks/usePosts";
 
 function App() {
     const [posts, setPosts] = useState([
-        {id: 1, title: 'Javascript', body: 'Eescription'},
+        {id: 1, title: 'Javascript ', body: 'Eescription'},
         {id: 2, title: 'Awewfafwfvascript 2', body: 'Fescription'},
         {id: 3, title: 'Vfffavascript 3', body: 'Tescription'},
 
